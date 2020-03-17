@@ -1,0 +1,17 @@
+body{
+color: green;
+font-family: Arial, Helvetica, sans-serif;
+background-image: linear-gradient(to bottom right, blue, lightblue);
+}
+
+h1{
+p.mix {border-style: dotted dashed solid double;}
+color: blue;
+font-size: 25px;
+}
+
+h2{
+p.dotted {border-style: dotted;}
+color:purple;
+font-size: 25px;
+}
