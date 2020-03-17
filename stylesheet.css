@@ -5,10 +5,34 @@ background-image: linear-gradient(to bottom right, lightblue, white, blue);
 }
 
 h1 {
+  background-color: green;
   color: yellow;
+  outline-style: double;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 3px 2px red;
 }
 p {
-  p.mix {border-style: dotted dashed solid double;
-  font-size: 25px;
-  color: green;
+	font-size: 15px;
+	border-style: dotted;
+	margin: 50px;
+	color: darkgreen;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  outline-style: groove;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 3px 2px red;
+}
+
+h3 {
+background-color: white;
+  color: violet;
+  outline-style: groove;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 3px 2px red;
 }
