@@ -5,20 +5,10 @@ background-image: linear-gradient(to bottom right, lightblue, white, blue);
 }
 
 h1 {
-  color: blue;
+  color: yellow;
 }
-p{
-p.mix {border-style: dotted dashed solid double;}
-color: blue;
-font-size: 25px;
+p {
+  p.mix {border-style: dotted dashed solid double;
+  font-size: 25px;
+  color: green;
 }
-
-h2 {
-  color: blue;
-}
-p{
-p.dotted {border-style: dotted;}
-color:purple;
-font-size: 25px;
-}
-
