@@ -5,18 +5,39 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-  background-color: green;
-  color: yellow;
-  outline-style: double;
-  text-align: center;
-  text-decoration: underline;
-  text-shadow: 3px 2px red;
+top: 50%
+transform: translateY(-50%);
+margin: 0;
+padding: 0;
+width: 100%;
+text-align: center;
+font-size : 75px;
+font-family: sans-serif;
+background: linear-gradient(to right, #f321ff, #ffeb82, #2196ff, #ee82ee);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
 }
-p {
+
+p1 {
 	font-size: 20px;
 	border-style: dotted;
 	margin: 50px;
 	color: darkgreen;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p2 {
+	font-size: 20px;
+	border-style: dotted;
+	margin: 50px;
+	color: #6a5acd;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p3 {
+	font-size: 20px;
+	border-style: dotted;
+	margin: 50px;
+	color: lightgreen;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
